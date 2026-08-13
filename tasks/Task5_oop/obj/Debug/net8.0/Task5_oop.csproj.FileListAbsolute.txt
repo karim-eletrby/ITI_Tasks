@@ -1,0 +1,14 @@
+D:\iti\C#\Task5_oop\obj\Debug\net8.0\Task5_oop.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti\C#\Task5_oop\obj\Debug\net8.0\Task5_oop.AssemblyInfoInputs.cache
+D:\iti\C#\Task5_oop\obj\Debug\net8.0\Task5_oop.AssemblyInfo.cs
+D:\iti\C#\Task5_oop\obj\Debug\net8.0\Task5_oop.csproj.CoreCompileInputs.cache
+D:\iti\C#\Task5_oop\bin\Debug\net8.0\Task5_oop.exe
+D:\iti\C#\Task5_oop\bin\Debug\net8.0\Task5_oop.deps.json
+D:\iti\C#\Task5_oop\bin\Debug\net8.0\Task5_oop.runtimeconfig.json
+D:\iti\C#\Task5_oop\bin\Debug\net8.0\Task5_oop.dll
+D:\iti\C#\Task5_oop\bin\Debug\net8.0\Task5_oop.pdb
+D:\iti\C#\Task5_oop\obj\Debug\net8.0\Task5_oop.dll
+D:\iti\C#\Task5_oop\obj\Debug\net8.0\refint\Task5_oop.dll
+D:\iti\C#\Task5_oop\obj\Debug\net8.0\Task5_oop.pdb
+D:\iti\C#\Task5_oop\obj\Debug\net8.0\Task5_oop.genruntimeconfig.cache
+D:\iti\C#\Task5_oop\obj\Debug\net8.0\ref\Task5_oop.dll
